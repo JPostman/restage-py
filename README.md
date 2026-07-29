@@ -1,6 +1,6 @@
-# ReStage Python Prototype
+# ReStage Python
 
-A runnable prototype of the ReStage execution model for Python. It uses decorators, dependency resolution, shared runtime state, and pluggable request executors while relying only on the Python standard library.
+A runnable of the ReStage execution model for Python. It uses decorators, dependency resolution, shared runtime state, and pluggable request executors while relying only on the Python standard library.
 
 ## Decorator model
 
